@@ -22,6 +22,7 @@ set(files
     google.yml
     gree.yml
     htc.yml
+    htc[1].yml
     huawei.yml
     infinix.yml
     infocus.yml
